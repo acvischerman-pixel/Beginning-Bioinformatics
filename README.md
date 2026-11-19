@@ -8,6 +8,7 @@ T. madens (Tmad)
 T. freemani (Tfre)
 T. confusum (Tcon)
 
+
 All six species pairs are analyzed with identical thresholds, so results are directly comparable. The project status is a draft: the pipeline has been run on all four genomes, and downstream validation and gene loss/duplication analyses are still to do (see Project status).
 
 Repo contents
